@@ -1,0 +1,58 @@
+{
+    "usersData": [
+        {
+            "id": 1,
+            "username": "swapnil",
+            "password": "123",
+            "email":"swapnil@gmail.com",
+            "token":"swapnil~swapnil@gmail.com",
+            "name": "swapnil",
+            "salary": 1500
+        },
+        {
+            "id": 2,
+            "username": "umesh",
+            "password": "456",
+            "email":"umesh@gmail.com",
+            "token":"umesh~umesh@gmail.com",
+            "name": "umesh",
+            "salary": 1700
+        },
+        {
+            "id": 3,
+            "username": "Rajesh",
+            "password": "123",
+            "email":"rajesh@gmail.com",
+            "token":"rajesh~rajesh@gmail.com",
+            "name": "rajesh",
+            "salary": 1850
+        },
+        {
+            "id": 4,
+            "username": "Rahul",
+            "password": "123",
+            "email":"rahul@gmail.com",
+            "token":"rahul~rahul@gmail.com",
+            "name": "rahul",
+            "salary": 3670
+        },
+        {
+            "id": 5,
+            "username": "yogesh",
+            "password": "456",
+            "email":"yogesh@gmail.com",
+            "token":"yogesh~yogesh@gmail.com",
+            "name": "yogesh",
+            "salary": 3250
+        },
+        {
+            "id": 6,
+            "username": "Radhe",
+            "password": "456",
+            "email":"radhe@gmail.com",
+            "token":"radhe~radhe@gmail.com",
+            "name": "radhe",
+            "salary": 1940
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+.parent {   
+    text-align: center !important;
+  }
+  .child {
+    display: inline-block; 
+    padding: 1rem 1rem;
+    vertical-align: middle;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid blue;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  #popup-1{
+      padding: 2%;
+      width: 16%;
+  }
+
+  input[type=text],input[type=password],input[type=email]{
+      border-radius: 3px;
+  }
+
+
+  
